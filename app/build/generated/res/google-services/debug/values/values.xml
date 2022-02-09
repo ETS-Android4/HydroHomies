@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">64801684111-e388e68gq05850psebp31du5apfm33ok.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">64801684111</string>
+    <string name="google_api_key" translatable="false">AIzaSyCsfQp_LWl8sDyZP5GZ7BxMh2BaKuWZ6W0</string>
+    <string name="google_app_id" translatable="false">1:64801684111:android:460a00735fdb1bdf39cefa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCsfQp_LWl8sDyZP5GZ7BxMh2BaKuWZ6W0</string>
+    <string name="google_storage_bucket" translatable="false">hydrohomies-43a96.appspot.com</string>
+    <string name="project_id" translatable="false">hydrohomies-43a96</string>
+</resources>
