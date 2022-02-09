@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HydroHomies</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">History</string>
+    <string name="title_notifications">Reminders</string>
+    <string-array name="reminder_intervals">
+            <item>30 s</item>
+            <item>1 min</item>
+            <item>5 min</item>
+            <item>15 min</item>
+            <item>30 min</item>
+            <item>1 hr</item>
+            <item>2 hr</item>
+    </string-array>
+</resources>

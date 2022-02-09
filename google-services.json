@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64801684111",
+    "project_id": "hydrohomies-43a96",
+    "storage_bucket": "hydrohomies-43a96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64801684111:android:460a00735fdb1bdf39cefa",
+        "android_client_info": {
+          "package_name": "com.example.hydrohomies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64801684111-e388e68gq05850psebp31du5apfm33ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsfQp_LWl8sDyZP5GZ7BxMh2BaKuWZ6W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64801684111-e388e68gq05850psebp31du5apfm33ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
